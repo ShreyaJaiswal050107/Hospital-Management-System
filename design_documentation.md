@@ -276,7 +276,7 @@ The system consists of the following components:
                   Patient Validation
 
 
-### 5.3 **Module Dependencies**
+### 5.3 Module Dependencies
 
 The modules have the following dependencies:
 
