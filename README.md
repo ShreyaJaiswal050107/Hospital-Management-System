@@ -297,7 +297,7 @@ The project demonstrates how Python programming concepts can be combined to crea
 
 ---
 
-## 📌 Project
+## 📌 Author
 **Name- Shreya Jaiswal**
 
 **Course- Python Essentials**
