@@ -298,7 +298,8 @@ The project demonstrates how Python programming concepts can be combined to crea
 ---
 
 ## 📌 Project
+**Name- Shreya Jaiswal**
 
-**Hospital Management System**
+**Course- Python Essentials**
 
-**Developed using Python**
+**project- Hospital Management System**
